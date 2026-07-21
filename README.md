@@ -87,5 +87,6 @@ Machine Learning project involving:
 ## 🌐 Connect With Me
 
 📧 Email: mohammad.nomaanraza2023@ssipmt.com  
-🔗 LinkedIn: linkedin.com/in/mohammad-nomaan-raza-661792310/ 
+🔗 LinkedIn: linkedin.com/in/mohammad-nomaan-raza-661792310/
+
 💻 GitHub: github.com/nomaan-raza
