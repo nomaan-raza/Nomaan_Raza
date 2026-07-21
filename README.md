@@ -5,7 +5,6 @@
 🚀 Building real-world web, mobile, and AI-based applications  
 
 
-
 ## 🧠 Skills
 
 📱 Mobile Development  
