@@ -4,6 +4,7 @@
 💻 Software Developer | Flutter Developer | Machine Learning Enthusiast  
 🚀 Building real-world web, mobile, and AI-based applications  
 
+------------------------------------------------------------
 
 ## 🧠 Skills
 
@@ -87,6 +88,7 @@ Machine Learning project involving:
 ## 🌐 Connect With Me
 
 📧 Email: mohammad.nomaanraza2023@ssipmt.com  
+
 🔗 LinkedIn: linkedin.com/in/mohammad-nomaan-raza-661792310/
 
 💻 GitHub: github.com/nomaan-raza
