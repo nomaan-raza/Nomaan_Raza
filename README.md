@@ -1,4 +1,5 @@
 # Nomaan_Raza
-🎓 BTech Computer Science Student
+🎓 BTech  Information Technology Student
+
 💻 Frontend Developer | AI Enthusiast
 🚀 Building real-world projects
