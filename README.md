@@ -4,7 +4,7 @@
 💻 Software Developer | Flutter Developer | Machine Learning Enthusiast  
 🚀 Building real-world web, mobile, and AI-based applications  
 
-----------------------------------------------------------------------------
+===========================================================================================
 
 ## 🧠 Skills
 
@@ -27,14 +27,14 @@
 - NLP  
 - Data Analysis  
 - Regression Models  
-
+_________________________________________________________
 🛠 Tools & Technologies  
 - Git & GitHub  
 - VS Code  
 - Android Studio  
 - Deployment & API Integration  
 
-------------------------------------------------------------------------------------------------
+===========================================================================================
 
 ## 🚀 Projects
 
@@ -46,6 +46,8 @@ A Flutter-based travel safety application with:
 - Trip management
 - Google Maps integration
 
+------------------------------------------------------------------------------------------------------------------
+
 ### 🚌 Bus Booking Application
 A mobile booking application featuring:
 - User authentication
@@ -54,12 +56,16 @@ A mobile booking application featuring:
 - REST API integration
 - COD payment workflow
 
+------------------------------------------------------------------------------------------------------------------
+
 ### 📧 Intelligent Spam Email Detection
 Machine Learning project for:
 - Spam and ham email classification
 - NLP-based text processing
 - TF-IDF feature extraction
 - ML model comparison
+
+-------------------------------------------------------------------------------------------------------------------
 
 ### 📈 Stock Market Price Prediction
 Machine Learning project involving:
@@ -68,11 +74,15 @@ Machine Learning project involving:
 - Data visualization
 - Model evaluation
 
+------------------------------------------------------------------------------------------------------------------
+
 ### 🏠 AI-Based House Price Prediction
 - Data preprocessing
 - Regression algorithms
 - Price prediction model
 - Performance analysis
+
+------------------------------------------------------------------------------------------------------------------
 
 ### 🌧️ Raindrop Sensor Based Rain Detection
 - Arduino-based IoT project
@@ -90,7 +100,7 @@ Machine Learning project involving:
 - System Design
 
 
-=========================================================================================
+===========================================================================================
 
 ## 🌐 Connect With Me
 
