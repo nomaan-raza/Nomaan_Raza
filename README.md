@@ -85,6 +85,6 @@ Machine Learning project involving:
 
 ## 🌐 Connect With Me
 
-📧 Email: your-email@example.com  
-🔗 LinkedIn: Your LinkedIn Profile  
-💻 GitHub: Your GitHub Profile
+📧 Email: mohammad.nomaanraza2023@ssipmt.com  
+🔗 LinkedIn: linkedin.com/in/mohammad-nomaan-raza-661792310/ 
+💻 GitHub: github.com/nomaan-raza
