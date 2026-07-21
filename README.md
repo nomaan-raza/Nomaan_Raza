@@ -79,6 +79,8 @@ Machine Learning project involving:
 - Sensor integration
 - Automatic rain detection system
 
+------------------------------------------------------------------------------------------------------------------
+
 ## 📈 Currently Learning
 
 - Advanced Flutter Development
@@ -87,8 +89,8 @@ Machine Learning project involving:
 - Advanced Machine Learning
 - System Design
 
-------------------------------------------------------------------------------------------------------------------
-======================================
+
+==================================================================================================================
 
 ## 🌐 Connect With Me
 
